@@ -42,7 +42,9 @@
     "clientTheme": "none",
     "clientThemeVariant": "",
     "reactive": false,
-    "enableGradleEnterprise": false
+    "enableGradleEnterprise": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1638012280000
   },
   "git-provider": "GitHub",
   "git-company": "utthamhcsc",
